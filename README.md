@@ -12,6 +12,9 @@ This repository contains the trained model checkpoints and crafted adversarial s
 
 `TEP_FD/` for fault detection
 
+## Example
+Run `example.py` can get the main results of benchmark in the paper.
+
 ## Code Reference
 We reproduce all the codes of adversarial attack and defense methods for FDC systems. Part of codes refer to the following repos:
 ### Adversarial attacks
