@@ -15,10 +15,10 @@ This repository contains the trained model checkpoints and crafted adversarial s
 ## Code Reference
 We reproduce all the codes of adversarial attack and defense methods for FDC systems. Part of codes refer to the following repos:
 ### Adversarial attacks
-*  **C&W** [advtorch](https://github.com/duggalrahul/REST/tree/master/advertorch)
-*  **SPSA, DeepFool** [cleverhans](https://github.com/cleverhans-lab/cleverhans)
+*  **C&W** in [advtorch](https://github.com/duggalrahul/REST/tree/master/advertorch)
+*  **SPSA, DeepFool** in [cleverhans](https://github.com/cleverhans-lab/cleverhans)
 *  [**UAP**](https://github.com/sajabdoli/UAP)
-*  **MILP** [VeriGauge](https://github.com/AI-secure/VeriGauge)
+*  **MILP** in [VeriGauge](https://github.com/AI-secure/VeriGauge)
 
 ### Adversarial defense
 * [**Input Gradient Regularization**](https://github.com/cfinlay/tulip)
