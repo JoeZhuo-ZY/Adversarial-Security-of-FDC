@@ -7,9 +7,9 @@ This repository contains the implementations of all adversarial attack and defen
 We also released the trained model checkpoints and calculated adversarial samples.
 
 ## Repository Structure
-`attack/` contains the the implementations of adversarial attack methods
+`attack/` contains the implementations of adversarial attack methods
 
-`defense/` contains the the implementations of adversarial defense methods
+`defense/` contains the implementations of adversarial defense methods
 
 `data/` contains the original TEP data with the normal condition and first 15 faults
 
