@@ -7,7 +7,7 @@ This repository contains the implementations of all adversarial attack and defen
 We also released the trained model checkpoints and calculated adversarial samples.
 
 ## Repository Structure
-`attacks/` contains the the implementations of adversarial attack methods
+`attack/` contains the the implementations of adversarial attack methods
 
 `defense/` contains the the implementations of adversarial defense methods
 
