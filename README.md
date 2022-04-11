@@ -21,6 +21,7 @@ We also released the trained model checkpoints and calculated adversarial sample
 
 ## Run
 Run `main.py` can iteratively train the defensive models and calculate adversarial samples, to reproduce the main results of benchmark in the paper.
+
 Configure variable `dataset_name` to adjust the task (faule classification or detection).
 
 ## Code Reference
